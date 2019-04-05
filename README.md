@@ -15,7 +15,14 @@ PHP를 통한 Github 정보를 가져오는 방법에 대해 아주 간단하게
 	- 추가적인 사항으로 UserName은 중복 체크를 통해서 MySQL의 user table에 저장됩니다.
 
 3. 실행 결과 사진
-	- 사진은 추후 추가 예정.
+	- Github Name 입력 화면
+	![입력 화면](./img/ready.png)
+	- 결과 화면
+		- 첫 번째 표는 데이터베이스의 table을 그대로 가져온 것입니다.
+		- 두 번째 글은 Github Name을 사용하여 개인 정보와 가지고 있는 repository의 commit의 횟수를 그대로 표현한 것입니다.
+		- 세 번째 부터는 개인 정보를 화면에 개별 목적에 맞게 출력한 형태입니다.
+		![결과 화면](./img/result.png)
+	
 
 4. 부족한 부분
 	- CSS, JavaScript를 통한 디자인 및 기능 구현 부족
