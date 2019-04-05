@@ -15,7 +15,7 @@ PHP를 통한 Github 정보를 가져오는 방법에 대해 아주 간단하게
 	- 추가적인 사항으로 UserName은 중복 체크를 통해서 MySQL의 user table에 저장됩니다.
 
 3. 실행 결과 사진
-	- Github Name 입력 화면
+	- Github Name 입력 화면 <br>
 	![입력 화면](./img/ready.png)
 	- 결과 화면
 		- 첫 번째 표는 데이터베이스의 table을 그대로 가져온 것입니다.
